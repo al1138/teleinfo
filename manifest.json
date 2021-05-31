@@ -1,0 +1,12 @@
+{
+  "domain": "teleinfo",
+  "name": "Teleinfo",
+  "documentation": "https://github.com/nlamirault/home-assistant/blob/teleinfo/homeassistant/components/sensor/teleinfo.py",
+  "requirements": [
+    "kylin==0.3.0"
+  ],
+  "dependencies": [],
+  "codeowners": [],
+"key": "1.0"
+}
+
